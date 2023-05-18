@@ -1,0 +1,8 @@
+Algorithm for creating a network scanner
+
+1. Download the OUI (Organizationally Unique Identifier) database from the IEEE website in CSV format
+2. Create an ARP request directed to broadcast MACs requesting IP addresses.
+3. Send packets and get response.
+4. Analyze the response.
+5. Verify the correspondence of the first 3 octets of the Mac Address that identify the Organizationally Unique Identifier (OUI) and extract information about the Vendor
+6. Print the result.
