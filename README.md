@@ -1,6 +1,6 @@
 # Simple-Python-Network-Scanner
 A Python script based on "Network-Scanner" by dharmil18 (https://github.com/dharmil18/Network-Scanner/)
-The scritp scans a network for connected devices and based on the OUI contained in the Mac Addres shows the vendor name. The script checks for the existence of a local copy of the IEEE OUI database and, if not present, downloads it from the official IEEE site (ieee.org)
+The script scans a network for connected devices and based on the OUI contained in the Mac Addres shows the vendor name. The script checks for the existence of a local copy of the IEEE OUI database and, if not present, downloads it from the official IEEE site (ieee.org)
 
 ## Setup
 Download this repository and run it locally,
